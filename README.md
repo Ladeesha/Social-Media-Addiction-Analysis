@@ -1,11 +1,16 @@
-# Social Media Addiction Data Analysis (Interactive dashboard create using Tableau)
-## Project Objective
-This project aims to analyze social media addiction among students using a Tableau dashboard. It focuses on identifying the total number of addicted students, the most frequently used social media platforms, average sleeping hours, and education levels. The goal is to raise awareness about the impact of social media overuse on students' daily lives and promote healthier digital habits through data visualization and an informative Medium blog article.
+# 📌Social Media Addiction Data Analysis (Interactive Dashboard create using Tableau)
 
+## 🎯Project Objective
+This project aims to analyze social media addiction among students using a Tableau dashboard. It focuses on identifying the total number of addicted students, the most frequently used social media platforms, average sleeping hours, and education levels. The goal is to raise awareness about the impact of social media overuse on students' daily lives and promote healthier digital habits through data visualization and an informative Medium blog article.
 
 ## Dataset Used : 
 - <a href = "https://github.com/Ladeesha/Social-Media-Addiction-Analysis/blob/main/Students%20Social%20Media%20Addiction.csv">Dataset </a>
 
+## 🛠 Tools Used
+- Tableau
+- Excel / CSV
+- Medium (for article)
+  
 ## 📁 Files Included
 - `Social media addiction.twbx` – Tableau workbook
 - `students Social Media Addiction.csv` – Raw dataset
@@ -60,8 +65,11 @@ This project aims to analyze social media addiction among students using a Table
 
 🌐 Uploaded all project files (dashboard, dataset, images, README) to GitHub.
 
-## Dahboard 
+## 📷Dahboard Preview 
 ![Screenshot 2025-06-26 124006](https://github.com/user-attachments/assets/faff0588-2e26-47a5-9cb1-c2dbd71904b5)
+
+## 🔗 Blog Article
+[How to Avoid Social Media Addiction and Reclaim Control of Your Time](https://medium.com/@shehanshikp/how-to-avoid-social-media-addiction-and-reclaim-control-of-your-time-67b2057d8ccc)
 
 ## Project Insight 
 
