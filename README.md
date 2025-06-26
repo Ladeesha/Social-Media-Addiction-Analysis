@@ -22,16 +22,27 @@ This project aims to analyze social media addiction among students using a Table
 
 ## Project Process
 ✅ Collected data on students' social media usage, sleeping hours, and education levels.
+
 🧹 Cleaned and organized the dataset using Excel (handled missing or inconsistent values).
+
 📥 Imported the dataset into Tableau for analysis.
+
 📊 Designed an interactive dashboard showing:
+
           1.Total addicted students
+          
           2.Most used social media platform
+          
           3.Average sleep hours
+          
           4.Addiction by education level
+          
 📌 Created KPIs to measure usage patterns and addiction impact.
+
 📝 Wrote a blog article (“How to Avoid Social Media Addiction”) and linked it to the dashboard.
+
 💾 Captured dashboard screenshots for preview and sharing.
+
 🌐 Uploaded all project files (dashboard, dataset, images, README) to GitHub.
 
 ## Dahboard 
